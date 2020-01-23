@@ -7,7 +7,7 @@ package studentlist;
 
 /**
  * printing student details
- * @author srinivsi
+ * @author modified by me
  */
 public class Studentlist
 {
